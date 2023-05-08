@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Test Project- Home Page</title>
-<link href="images/d5n6fvc-4f1ad1e8-0a3b-49c2-a453-9a5de289f813.png" rel="icon">
+<link href="images/trial.jpeg" rel="icon">
 </head>
 </head>
 <body>
@@ -29,21 +29,20 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/d5n6fvc-4f1ad1e8-0a3b-49c2-a453-9a5de289f813.png" alt="" width="150">
+		<img src="images/trial.jpeg" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
                 Nigeria
 		+234 703 659 5722,
 		Collenito@gmail.com
 		<br>
-		<a href="mailto:collenito@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:collenito@gmail.com">Mail to collins Technologies</a>
 	</span>
 </div>
 <hr>
 	
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training and Software Development</p>
 <p align=center><small>Copyrights 2023 by Collins </small></p>
 
 </body>
